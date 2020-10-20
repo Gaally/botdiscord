@@ -1,0 +1,16 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-jokes": "^1.0.12",
+    "discord-welcome": "^2.0.2",
+    "discord.js": "^12.3.1"
+  }
+}
